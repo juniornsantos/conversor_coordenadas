@@ -3,7 +3,8 @@ Esta é a versão 1.2.0 da função em JavaScript para converter coordenadas UTM
 
 ## Funcionamento
 A função tem quatro parametros:
-<br/> Coordenada X, Coordenada Y, coorenada do seEmi eixo maior (m), se for conhecido f, temos: bx=(1-f)*ay, fuso horario(brasil - 22 ao 25 ++ fernando de noronha), hemisferio "N" para norte e "S" para sul
+<br/> **Coordenada X, Coordenada Y, coorenada do seEmi eixo maior (m), se for conhecido f, temos: bx=(1-f)*ay, fuso horario(brasil - 22 ao 25 ++ fernando de noronha), hemisferio "N" para norte e "S" para sul**
+<br/>
 <br />Você pode definir as variavel e chamar como quiser, Exemplo abaixo:
 
 ```go
@@ -13,7 +14,7 @@ A função tem quatro parametros:
  let ay = 6378160.0000000; //coorenada do seEmi eixo maior (m)
  let f = 298.25; //se for conhecido f, temos: bx=(1-f)*ay
  let fuso = 24; //fuso horario(brasil - 22 ao 25 ++ fernando de noronha)
- let hmsf = "s"; // hemisferio "N" para norte e "S" para sul
+ let hmsf = "s"; // hemisferio "N" para norte e "S" para sul**
 ```
 ## Modo de uso e retorno
 ```go
