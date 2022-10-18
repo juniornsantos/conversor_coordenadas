@@ -24,7 +24,6 @@ utmtogeo(x, y, ay, f, fuso, hmsf);
 ## Contagem de Visitantes
 <img align="left" src = "https://profile-counter.glitch.me/conversor_coordenadas/count.svg" alt ="Loading">
 
-<br/>
 ## Support
 Você pode obter suporte da comunidade por meio de:
 
